@@ -24,3 +24,9 @@ span {
     margin-left: 50px;
     padding-top: 50px;
 }
+
+#btn-add {
+    background-color: red;
+    padding: 7px 15px;
+    text-decoration: none;
+}
