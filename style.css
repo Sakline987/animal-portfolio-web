@@ -25,8 +25,16 @@ span {
     padding-top: 50px;
 }
 
+
 #btn-add {
-    background-color: red;
     padding: 7px 15px;
     text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+    background-image: linear-gradient(rgb(216, 175, 181), rgb(240, 101, 125));
+
+
+}
+
+
 }
