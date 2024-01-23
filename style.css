@@ -1,0 +1,26 @@
+body {
+    font-family: "Nunito", sans-serif;
+}
+
+#header-area {
+    height: 100%;
+    width: 100%;
+    display: flex;
+
+}
+
+span {
+    color: hotpink;
+}
+
+#header-text {
+    width: 50%;
+    margin-left: 50px;
+    padding-top: 50px;
+}
+
+#header-img img {
+    width: 50%;
+    margin-left: 50px;
+    padding-top: 50px;
+}
