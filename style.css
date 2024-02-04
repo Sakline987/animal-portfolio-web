@@ -69,3 +69,22 @@ span {
 .finishing-area h5 {
     color: tomato;
 }
+
+.style .finishing-area {
+    box-shadow: 10px 10px 10px 10px #666666;
+    margin: 50px 50px;
+    text-align: left;
+    height: 265px;
+    width: 600px;
+    padding: 20px;
+
+
+
+
+}
+
+.style .logo {
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+
+}
